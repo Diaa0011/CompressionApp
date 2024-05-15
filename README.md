@@ -60,7 +60,8 @@ This project focuses exclusively on the encoding side of data compression, not d
 2. Enter the text you want to compress and analyze.
 3. View the calculated metrics and the Huffman encoding tree visualization.
 
-# License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+## License
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
+
 
 
