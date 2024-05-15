@@ -42,8 +42,8 @@ This project focuses exclusively on the encoding side of data compression, not d
 
 # Installation
 1. Clone the repository:
-` git clone https://github.com/Diaa0011/CompressionApp `
- ` cd CompressionApp `
+* ` git clone https://github.com/Diaa0011/CompressionApp `
+* ` cd CompressionApp `
 2. Install the required Python packages:
 * ` pip install tkinter `
 * ` pip install matplotlib `
